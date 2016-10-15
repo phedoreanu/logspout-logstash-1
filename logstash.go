@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/fsouza/go-dockerclient"
-	"github.com/gliderlabs/logspout/router"
+	"github.com/phedoreanu/logspout/router"
 )
 
 func init() {
